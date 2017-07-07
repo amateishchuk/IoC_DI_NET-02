@@ -10,7 +10,6 @@ namespace IoC_DI_NET_02.Domain.Abstract
 {
     public abstract class Availabator
     {
-        protected string address;
         protected ILogger logger;
         public Availabator(ILogger logger)
         {
