@@ -1,0 +1,7 @@
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\bin\Debug\IoC_DI_NET-02.Domain.dll
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\bin\Debug\IoC_DI_NET-02.Domain.pdb
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\obj\Debug\IoC_DI_NET-02.Domain.csprojResolveAssemblyReference.cache
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\obj\Debug\IoC_DI_NET-02.Domain.dll
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\obj\Debug\IoC_DI_NET-02.Domain.pdb

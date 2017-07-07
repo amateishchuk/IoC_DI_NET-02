@@ -1,0 +1,6 @@
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\bin\Release\IoC_DI_NET-02.Domain.dll
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\bin\Release\IoC_DI_NET-02.Domain.pdb
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\bin\Release\Newtonsoft.Json.dll
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\bin\Release\Newtonsoft.Json.xml
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\obj\Release\IoC_DI_NET-02.Domain.dll
+C:\Users\amate\Desktop\Academy Binary Studio\02\IoC_DI_NET-02.Domain\obj\Release\IoC_DI_NET-02.Domain.pdb
